@@ -1,0 +1,113 @@
+{
+  "corte": "Diciembre 2025",
+  "kpis": {
+    "primas_emitidas": 2387603604,
+    "siniestros_total": 435608704,
+    "pct_siniestralidad_global": 18.24,
+    "total_eventos": 155,
+    "polizas_activas": 13
+  },
+  "estado": {
+    "terminado": 87,
+    "pendiente": 68
+  },
+  "causas": [
+    { "causa": "Descuido/Imprudencia Conductor", "cantidad": 120 },
+    { "causa": "Imprudencia Otros",              "cantidad": 32  },
+    { "causa": "Imprudencia Peatón",             "cantidad": 2   },
+    { "causa": "Deterioro",                      "cantidad": 1   }
+  ],
+  "ramos": [
+    {
+      "ramo": "AUTOS",
+      "primas_emitidas": 1886493840,
+      "siniestros_total": 163014182,
+      "pct_siniestralidad": 8.64,
+      "eventos": 29
+    },
+    {
+      "ramo": "RCE/RCC",
+      "primas_emitidas": 501109764,
+      "siniestros_total": 272594522,
+      "pct_siniestralidad": 54.40,
+      "eventos": 126
+    }
+  ],
+  "coberturas": [
+    { "cobertura": "DBT",      "cantidad": 69, "reserva": 54700000,  "liquidacion": 135500000 },
+    { "cobertura": "LES",      "cantidad": 45, "reserva": 16500000,  "liquidacion": 72800000  },
+    { "cobertura": "RCC",      "cantidad": 26, "reserva": 15100000,  "liquidacion": 25900000  },
+    { "cobertura": "LESIONES", "cantidad": 8,  "reserva": 2000000,   "liquidacion": 6400000   },
+    { "cobertura": "Otros",    "cantidad": 7,  "reserva": 9700000,   "liquidacion": 97100000  }
+  ],
+  "mensual": [
+    { "mes": "Ene", "eventos": 4,  "liquidacion": 5108863   },
+    { "mes": "Feb", "eventos": 10, "liquidacion": 14430254  },
+    { "mes": "Mar", "eventos": 9,  "liquidacion": 11545978  },
+    { "mes": "Abr", "eventos": 11, "liquidacion": 18978119  },
+    { "mes": "May", "eventos": 22, "liquidacion": 26826617  },
+    { "mes": "Jun", "eventos": 15, "liquidacion": 67175718  },
+    { "mes": "Jul", "eventos": 19, "liquidacion": 27007138  },
+    { "mes": "Ago", "eventos": 13, "liquidacion": 34468781  },
+    { "mes": "Sep", "eventos": 16, "liquidacion": 42224265  },
+    { "mes": "Oct", "eventos": 6,  "liquidacion": 1532258   },
+    { "mes": "Nov", "eventos": 19, "liquidacion": 16750322  },
+    { "mes": "Dic", "eventos": 11, "liquidacion": 71616074  }
+  ],
+  "polizas_siniestralidad": [
+    {
+      "nombre": "Colectiva Todo Riesgo Autos",
+      "poliza": "1505514498605",
+      "aseguradora": "Seguros Bolívar",
+      "primas_emitidas": 1886493840,
+      "siniestros_total": 163014182,
+      "pct_siniestralidad": 8.64,
+      "eventos": 29,
+      "pendientes": 20,
+      "terminados": 9,
+      "reserva": 50407672,
+      "liquidado": 112606510
+    },
+    {
+      "nombre": "Colectiva RCE / RCC (De Ley)",
+      "poliza": "1000491486205",
+      "aseguradora": "Seguros Bolívar",
+      "primas_emitidas": 501109764,
+      "siniestros_total": 272594522,
+      "pct_siniestralidad": 54.40,
+      "eventos": 126,
+      "pendientes": 48,
+      "terminados": 78,
+      "reserva": 47536645,
+      "liquidado": 225057877
+    },
+    {
+      "nombre": "Colectiva RCC en Exceso",
+      "poliza": "1000491488005",
+      "aseguradora": "Seguros Bolívar",
+      "primas_emitidas": 53523182,
+      "siniestros_total": 37895,
+      "pct_siniestralidad": 0.07,
+      "eventos": 2,
+      "pendientes": 0,
+      "terminados": 2,
+      "reserva": 0,
+      "liquidado": 37895
+    }
+  ],
+  "polizas": [
+    { "ramo": "AUTOS", "poliza": "10-8-101-7039890", "desde": "18/05/2024", "hasta": "18/05/2025", "prima": 34800000  },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7044427", "desde": "18/05/2024", "hasta": "18/05/2025", "prima": 34800000  },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7044427", "desde": "18/05/2024", "hasta": "18/05/2025", "prima": 34800000  },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7039890", "desde": "18/05/2024", "hasta": "18/05/2025", "prima": 34800000  },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7044427", "desde": "18/05/2024", "hasta": "18/05/2025", "prima": 34800000  },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7055698", "desde": "17/10/2024", "hasta": "17/10/2025", "prima": 291000000 },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7055698", "desde": "17/10/2024", "hasta": "17/10/2025", "prima": 291000000 },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7055698", "desde": "17/10/2024", "hasta": "17/10/2025", "prima": 291000000 },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7071064", "desde": "17/10/2024", "hasta": "17/10/2025", "prima": 116000000 },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7071064", "desde": "17/10/2024", "hasta": "17/10/2025", "prima": 116000000 },
+    { "ramo": "AUTOS", "poliza": "10-8-101-7071064", "desde": "17/10/2024", "hasta": "17/10/2025", "prima": 116000000 },
+    { "ramo": "RCE",   "poliza": "10-8-300-7038817", "desde": "11/05/2024", "hasta": "11/05/2025", "prima": 250554882 },
+    { "ramo": "RCE",   "poliza": "10-8-300-7061564", "desde": "01/10/2024", "hasta": "01/10/2025", "prima": 250554882 }
+  ]
+}
